@@ -1,0 +1,17 @@
+songs:
+  - sound: meme:see_you_again
+    duration-ms: 230134
+  - sound: meme:yu_ai
+    duration-ms: 139862
+  - sound: meme:dongbei
+    duration-ms: 215616
+  - sound: meme:ke_jian_pao_cao
+    duration-ms: 121650
+  - sound: meme:yun_yuanshen
+    duration-ms: 107520
+  - sound: meme:zhong_guo_ren_neng_fei
+    duration-ms: 121641
+  - sound: meme:wang_qing_niu_rou_mian
+    duration-ms: 223400
+  - sound: meme:peng_you_de_jiu
+    duration-ms: 236101

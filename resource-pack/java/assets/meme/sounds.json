@@ -1,0 +1,66 @@
+{
+  "see_you_again": {
+    "sounds": [
+      {
+        "name": "meme:see_you_again",
+        "stream": true
+      }
+    ]
+  },
+  "yu_ai": {
+    "sounds": [
+      {
+        "name": "meme:yu_ai",
+        "stream": true
+      }
+    ]
+  },
+  "dongbei": {
+    "sounds": [
+      {
+        "name": "meme:dongbei",
+        "stream": true
+      }
+    ]
+  },
+  "ke_jian_pao_cao": {
+    "sounds": [
+      {
+        "name": "meme:ke_jian_pao_cao",
+        "stream": true
+      }
+    ]
+  },
+  "yun_yuanshen": {
+    "sounds": [
+      {
+        "name": "meme:yun_yuanshen",
+        "stream": true
+      }
+    ]
+  },
+  "zhong_guo_ren_neng_fei": {
+    "sounds": [
+      {
+        "name": "meme:zhong_guo_ren_neng_fei",
+        "stream": true
+      }
+    ]
+  },
+  "wang_qing_niu_rou_mian": {
+    "sounds": [
+      {
+        "name": "meme:wang_qing_niu_rou_mian",
+        "stream": true
+      }
+    ]
+  },
+  "peng_you_de_jiu": {
+    "sounds": [
+      {
+        "name": "meme:peng_you_de_jiu",
+        "stream": true
+      }
+    ]
+  }
+}

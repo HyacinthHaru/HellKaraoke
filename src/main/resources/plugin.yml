@@ -1,0 +1,15 @@
+name: HellKaraoke
+version: 1.0.0
+main: ac.haru.meme.RespawnLockProbe
+api-version: '1.21.8'
+author: HyacinthHaru
+description: 孟婆汤
+depend: [packetevents]
+commands:
+  respawnprobe:
+    description: Inspect a respawn test or rescue a stuck player.
+    usage: /respawnprobe <status|rescue> [player]
+    permission: respawnprobe.admin
+permissions:
+  respawnprobe.admin:
+    default: op

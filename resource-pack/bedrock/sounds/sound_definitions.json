@@ -1,0 +1,93 @@
+{
+  "format_version": "1.20.20",
+  "sound_definitions": {
+    "meme:see_you_again": {
+      "category": "record",
+      "sounds": [
+        {
+          "name": "sounds/meme/see_you_again",
+          "stream": true,
+          "is3D": false,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "meme:yu_ai": {
+      "category": "record",
+      "sounds": [
+        {
+          "name": "sounds/meme/yu_ai",
+          "stream": true,
+          "is3D": false,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "meme:dongbei": {
+      "category": "record",
+      "sounds": [
+        {
+          "name": "sounds/meme/dongbei",
+          "stream": true,
+          "is3D": false,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "meme:ke_jian_pao_cao": {
+      "category": "record",
+      "sounds": [
+        {
+          "name": "sounds/meme/ke_jian_pao_cao",
+          "stream": true,
+          "is3D": false,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "meme:yun_yuanshen": {
+      "category": "record",
+      "sounds": [
+        {
+          "name": "sounds/meme/yun_yuanshen",
+          "stream": true,
+          "is3D": false,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "meme:zhong_guo_ren_neng_fei": {
+      "category": "record",
+      "sounds": [
+        {
+          "name": "sounds/meme/zhong_guo_ren_neng_fei",
+          "stream": true,
+          "is3D": false,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "meme:wang_qing_niu_rou_mian": {
+      "category": "record",
+      "sounds": [
+        {
+          "name": "sounds/meme/wang_qing_niu_rou_mian",
+          "stream": true,
+          "is3D": false,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "meme:peng_you_de_jiu": {
+      "category": "record",
+      "sounds": [
+        {
+          "name": "sounds/meme/peng_you_de_jiu",
+          "stream": true,
+          "is3D": false,
+          "load_on_low_memory": true
+        }
+      ]
+    }
+  }
+}

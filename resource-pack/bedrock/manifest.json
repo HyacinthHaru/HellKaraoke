@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "the best songs i've heard",
+    "description": "",
+    "uuid": "0f7ec56a-dee9-4234-9563-ff05a33e21fa",
+    "version": [1, 1, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "20292718-3cec-4e3e-804a-9e15291465fc",
+      "version": [1, 1, 0]
+    }
+  ]
+}
